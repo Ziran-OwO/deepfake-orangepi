@@ -31,4 +31,5 @@
 
 ## 🎬 演示视频
 
-- 📺 [B站：端侧AI语音深度伪造检测系统演示]([https://www.bilibili.com/video/BV1y99xBSEdU](https://www.bilibili.com/video/BV1y99xBSEdU/?spm_id_from=333.1387.homepage.video_card.click))
+- 📺 [B站：端侧AI语音深度伪造检测系统演示]
+- https://www.bilibili.com/video/BV1y99xBSEdU/?spm_id_from=333.1387.homepage.video_card.click
