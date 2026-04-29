@@ -1,8 +1,5 @@
 # deepfake-orangepi
 端侧AI语音深度伪造检测系统 | 国产Orange Pi部署 | 离线实时推理RTF 0.1569 · GUI可视化
-&lt;p align="center"&gt;
-  &lt;b&gt;国产边缘设备 · OpenGauss数据库 · 离线实时推理&lt;/b&gt;
-&lt;/p&gt;
 
 ---
 
