@@ -4,13 +4,6 @@
   &lt;b&gt;国产边缘设备 · OpenGauss数据库 · 离线实时推理&lt;/b&gt;
 &lt;/p&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3.8+-blue.svg" /&gt;
-  &lt;img src="https://img.shields.io/badge/PyTorch-1.12+-orange.svg" /&gt;
-  &lt;img src="https://img.shields.io/badge/Platform-Orange%20Pi-green.svg" /&gt;
-  &lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" /&gt;
-&lt;/p&gt;
-
 ---
 
 ## 📌 项目简介
